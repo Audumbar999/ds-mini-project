@@ -52,7 +52,3 @@ oject.git)
 ○ 04_model_evaluation.ipynb
 
 ---
-### Phase 4: Commit Changes on Mobile (Lab 1)
-1. Scroll down to the bottom of the page to the **Commit changes** box.
-2. In the commit message box, type[cite: 1]:
-```text
