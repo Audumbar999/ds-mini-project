@@ -50,5 +50,12 @@ oject.git)
 ○ 02_eda.ipynb
 ○ 03_model_building.ipynb
 ○ 04_model_evaluation.ipynb
+```
+## Agraj's Work
+<img src="created_by_agraj.jpg" alt="Agraj" width="200">
 
----
+## Sahil's Work
+<img src="created_by_sahil.jpg" alt="Agraj" width="200">
+
+## Pranav's Work
+<img src="created_by_pranav.jpg" alt="Agraj" width="200">
