@@ -52,10 +52,10 @@ oject.git)
 ○ 04_model_evaluation.ipynb
 ```
 ## Agraj's Work
-<img src="created_by_agraj.jpg" alt="Agraj" width="200">
+<img src="created_by_agraj.jpg" alt="Agraj" width="900">
 
 ## Sahil's Work
-<img src="created_by_sahil.jpg" alt="Agraj" width="200">
+<img src="created_by_sahil.jpg" alt="Agraj" width="900">
 
 ## Pranav's Work
-<img src="created_by_pranav.jpg" alt="Agraj" width="200">
+<img src="created_by_pranav.jpg" alt="Agraj" width="900">
